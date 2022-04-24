@@ -2,6 +2,7 @@ import ReactDOM from "react-dom";
 import React from 'react';
 
 class App extends React.Component {
+    //props button
     constructor(props) {
         super(props);
         this.state = {}
